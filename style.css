@@ -1,0 +1,26 @@
+#result:hover
+{
+    -fx-border-color: #0c00ba;
+}
+
+#search
+{
+    -fx-text-fill: white;
+    -fx-background-color: #6169ff;
+}
+
+#search:hover
+{
+    -fx-background-color: #2e38ff;
+}
+
+#search:pressed
+{
+    -fx-background-color: #0009b0;
+    -fx-text-fill: #a31717;
+}
+
+#image:hover
+{
+
+}
